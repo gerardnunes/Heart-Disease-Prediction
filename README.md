@@ -1,4 +1,4 @@
-# Heart_pred
+# Heart Disease Prediction App
 
 
 💓 Heart Disease Prediction App
